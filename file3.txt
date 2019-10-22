@@ -1,1 +1,1 @@
-file3 from feature branch
+file3 from feature branch -modified
